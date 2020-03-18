@@ -5,6 +5,14 @@ The conversion tool is distributed under the GNU GPL v2.
 
 The conversion tool uses the PHPExcel library. PHPExcel is licensed under [LGPL (GNU LESSER GENERAL PUBLIC LICENSE)](https://github.com/PHPOffice/PHPExcel/blob/master/license.md)
 
+Forked by cm647 for CUL in March 2020
+Changes: 
+- updated name vocabs for current OJS3 schema
+-corrected bug to allow issue title to appear
+
+TO DO:
+correct abstract spacing, either in this script or separately
+
 ## Changes in version 1.1.0.12 (Dec 2018)
 - Support multilingual keywords
 
