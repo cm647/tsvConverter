@@ -5,7 +5,8 @@ The conversion tool is distributed under the GNU GPL v2.
 
 The conversion tool uses the PHPExcel library. PHPExcel is licensed under [LGPL (GNU LESSER GENERAL PUBLIC LICENSE)](https://github.com/PHPOffice/PHPExcel/blob/master/license.md)
 
-Forked by cm647 for CUL in March 2020
+## Forked by cm647 for CUL in March 2020
+This script expects content formatted with the template here (available to cornell netid only): https://cornell.box.com/s/g9w9hvbosr5zt2fw2zcd1nlqg9rt3h0g
 Changes: 
 - updated name vocabs for current OJS3 schema
 -corrected bug to allow issue title to appear
